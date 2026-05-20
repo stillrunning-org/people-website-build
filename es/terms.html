@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Terminos de uso - TheLuckyBastard.Me</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="/assets/favicon-256.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="stylesheet" href="/assets/style.css?v=1779235544">
+</head>
+<body>
+<div class="page">
+    <header class="topbar">
+        <a class="brand-lockup brand-home-link" href="/es.html">
+            <img class="brand-icon" src="/site_logo.png" alt="TheLuckyBastard.Me">
+            <h1 class="brand" aria-label="TheLuckyBastard.Me">
+                <span class="brand-word-dark">The</span><span class="brand-word-main">Lucky</span><span class="brand-word-dark">Bastard.</span><span class="brand-word-me">Me</span>
+            </h1>
+        </a>
+        <form method="get" action="/terms.php" class="lang-switch" data-lang-switch-form>
+            <label for="lang">Idioma</label>
+            <select id="lang" name="lang" data-lang-select>
+                                    <option value="/en/terms.html">EN</option>
+                                    <option value="/fr/terms.html">FR</option>
+                                    <option value="/de/terms.html">DE</option>
+                                    <option value="/es/terms.html" selected>ES</option>
+                                    <option value="/ru/terms.html">RU</option>
+                            </select>
+        </form>
+    </header>
+
+    <main class="legal-main">
+        <article class="legal-card">
+            <h2>Terminos de uso</h2>
+            <p>Al usar este sitio, aceptas usarlo de forma responsable y con conciencia de que el tema puede ser emocionalmente sensible.</p>
+
+            <h3>Proposito y alcance</h3>
+            <p>Este sitio es un proyecto informativo y de reflexion. No constituye asesoramiento medico, legal, psicologico ni de apoyo en crisis.</p>
+
+            <h3>Publico</h3>
+            <p>El sitio esta pensado para adolescentes mayores y adultos. Padres, tutores y docentes deben usar criterio para audiencias mas jovenes.</p>
+
+            <h3>Temas sensibles</h3>
+            <p>El contenido puede incluir referencias a muerte, enfermedad, accidentes, violencia, suicidio, duelo y figuras publicas controvertidas. Se recomienda discrecion del lector.</p>
+
+            <h3>Fuentes externas</h3>
+            <p>Incluimos enlaces a referencias de terceros para contexto historico. No somos responsables del contenido de terceros, cambios de precision, disponibilidad o politicas.</p>
+
+            <h3>Sin garantia</h3>
+            <p>El sitio se ofrece &quot;tal cual&quot; y &quot;segun disponibilidad&quot;, sin garantias de integridad, idoneidad o funcionamiento ininterrumpido.</p>
+
+            <h3>Limitacion de responsabilidad</h3>
+            <p>En la maxima medida permitida por la ley, los operadores del sitio no son responsables por danos directos o indirectos derivados del uso de este sitio o de recursos enlazados.</p>
+
+            <h3>Cambios en estos terminos</h3>
+            <p>Podemos actualizar estos terminos a medida que evoluciona el proyecto. El uso continuado del sitio despues de los cambios implica aceptacion de los terminos actualizados.</p>
+        </article>
+    </main>
+
+    <footer class="site-footer">
+        <a href="/es/privacy.html">Privacidad</a>
+        <span class="site-footer-divider">|</span>
+        <a href="/es/terms.html">Terminos de uso</a>
+    </footer>
+</div>
+<script>
+window.addEventListener('DOMContentLoaded', function () {
+    var langSelect = document.querySelector('[data-lang-select]');
+    if (!langSelect) {
+        return;
+    }
+    langSelect.addEventListener('change', function () {
+        if (langSelect.value) {
+            window.location.href = langSelect.value;
+        }
+    });
+});
+</script>
+</body>
+</html>

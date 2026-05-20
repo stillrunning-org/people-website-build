@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Redirecting...</title>
+    <meta http-equiv="refresh" content="0; url=/en/result/33.html">
+</head>
+<body>
+<script>
+(function () {
+    var supported = ["en","fr","de","es","ru"];
+    var fallback = 'en';
+    var age = 33;
+    var languages = [];
+    if (Array.isArray(navigator.languages) && navigator.languages.length > 0) {
+        languages = navigator.languages.slice();
+    } else if (navigator.language) {
+        languages = [navigator.language];
+    }
+
+    var selected = fallback;
+    for (var i = 0; i < languages.length; i++) {
+        var candidate = String(languages[i] || '').toLowerCase().slice(0, 2);
+        if (supported.indexOf(candidate) !== -1) {
+            selected = candidate;
+            break;
+        }
+    }
+
+    var query = window.location.search || '';
+    window.location.replace('/' + selected + '/result/' + age + '.html' + query);
+})();
+</script>
+<noscript>
+    <p><a href="/en/result/33.html">Continue</a></p>
+</noscript>
+</body>
+</html>

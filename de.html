@@ -1,0 +1,385 @@
+<!doctype html>
+<html lang="de">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TheLuckyBastard.Me</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="/assets/favicon-256.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="stylesheet" href="/assets/style.css?v=1779235544">
+</head>
+<body>
+<div class="page page-home">
+    <header class="topbar">
+        <div class="brand-lockup">
+            <img class="brand-icon" src="/site_logo.png" alt="TheLuckyBastard.Me">
+            <h1 class="brand" aria-label="TheLuckyBastard.Me">
+                <span class="brand-word-dark">The</span><span class="brand-word-main">Lucky</span><span class="brand-word-dark">Bastard.</span><span class="brand-word-me">Me</span>
+            </h1>
+        </div>
+        <form method="get" action="/" class="lang-switch" data-lang-switch-form>
+            <label for="lang">Sprache</label>
+            <select id="lang" name="lang" data-lang-select>
+                                                        <option value="/en.html">EN</option>
+                                                        <option value="/fr.html">FR</option>
+                                                        <option value="/de.html" selected>DE</option>
+                                                        <option value="/es.html">ES</option>
+                                                        <option value="/ru.html">RU</option>
+                            </select>
+            <noscript>
+                                    <a href="/en.html">EN</a>
+                                    <a href="/fr.html">FR</a>
+                                    <a href="/de.html">DE</a>
+                                    <a href="/es.html">ES</a>
+                                    <a href="/ru.html">RU</a>
+                            </noscript>
+        </form>
+    </header>
+
+    <main class="landing-main">
+        <section id="disclaimer" class="disclaimer">
+            <p>
+                <strong>Inhaltshinweis:</strong>
+                Diese Seite behandelt den Tod und kann Verweise auf Krankheit, Unfalle, Gewalt, Suizid, Trauer und andere belastende Themen enthalten. Sie richtet sich an altere Teenager und Erwachsene. Leserdiscretion wird empfohlen, besonders fur Personen, die diese Themen emotional schwierig oder triggernd finden konnen.            </p>
+            <button id="disclaimer-ack" class="disclaimer-ack" type="button">Verstanden</button>
+        </section>
+
+        <section class="age-center">
+            <form
+                class="age-form"
+                method="get"
+                action="/result.php"
+                data-age-form
+                data-result-base="/de/result/"
+                data-birthday-link-base="/result/"
+                data-age-label-default="Geben Sie Ihr Alter ein"
+                data-age-label-birthday="Alter deines Freundes eingeben"
+                data-submit-label-default="Absenden"
+                data-submit-label-birthday="Freigabelink erzeugen"
+            >
+                <input type="hidden" name="lang" value="de">
+                <label for="age">Geben Sie Ihr Alter ein</label>
+                <div class="age-form-row">
+                    <input
+                        id="age"
+                        name="age"
+                        type="number"
+                        inputmode="numeric"
+                        enterkeyhint="go"
+                        min="13"
+                        max="99"
+                        required
+                        placeholder="13-99"
+                    >
+                    <button type="submit">Absenden</button>
+                </div>
+                <section class="birthday-card-tools">
+                    <div class="birthday-card-output" data-birthday-output hidden>
+                        <p class="birthday-card-instruction">Teile diesen Link mit deinem Freund:</p>
+                        <div class="birthday-card-row">
+                            <a href="#" data-birthday-link target="_blank" rel="noopener noreferrer"></a>
+                            <button
+                                type="button"
+                                data-birthday-copy
+                                data-copy-default="Kopieren"
+                                data-copy-success="Kopiert"
+                            >
+                                Kopieren                            </button>
+                        </div>
+                    </div>
+                    <a
+                        href="#"
+                        class="birthday-card-link"
+                        data-birthday-toggle
+                        data-label-default="Geburtstagskarte erstellen"
+                        data-label-back="Eigenes Alter pruefen"
+                    >
+                        Geburtstagskarte erstellen                    </a>
+                </section>
+            </form>
+        </section>
+    </main>
+    <footer class="site-footer">
+        <a href="/de/privacy.html">Datenschutz</a>
+        <span class="site-footer-divider">|</span>
+        <a href="/de/terms.html">Nutzungsbedingungen</a>
+    </footer>
+</div>
+<script>
+window.addEventListener('DOMContentLoaded', function () {
+    var ageInput = document.getElementById('age');
+    var disclaimer = document.getElementById('disclaimer');
+    var disclaimerAck = document.getElementById('disclaimer-ack');
+    var langSelect = document.querySelector('[data-lang-select]');
+    var ageForm = document.querySelector('[data-age-form]');
+    var birthdayToggle = document.querySelector('[data-birthday-toggle]');
+    var birthdayOutput = document.querySelector('[data-birthday-output]');
+    var birthdayLink = document.querySelector('[data-birthday-link]');
+    var birthdayCopy = document.querySelector('[data-birthday-copy]');
+    var ageLabel = ageForm ? ageForm.querySelector('label[for="age"]') : null;
+    var submitButton = ageForm ? ageForm.querySelector('button[type="submit"]') : null;
+    var isBirthdayMode = false;
+    var copyResetTimer = 0;
+
+    function setCopyButtonText(text) {
+        if (!birthdayCopy) {
+            return;
+        }
+        birthdayCopy.textContent = text;
+    }
+
+    function setBirthdayToggleText() {
+        if (!birthdayToggle) {
+            return;
+        }
+        if (isBirthdayMode) {
+            birthdayToggle.textContent = birthdayToggle.getAttribute('data-label-back') || 'Check your age';
+            return;
+        }
+        birthdayToggle.textContent = birthdayToggle.getAttribute('data-label-default') || 'Create a birthday card';
+    }
+
+    function getCopyDefaultLabel() {
+        if (!birthdayCopy) {
+            return 'Copy';
+        }
+        return birthdayCopy.getAttribute('data-copy-default') || 'Copy';
+    }
+
+    function getCopySuccessLabel() {
+        if (!birthdayCopy) {
+            return 'Copied';
+        }
+        return birthdayCopy.getAttribute('data-copy-success') || 'Copied';
+    }
+
+    function enableBirthdayMode() {
+        if (isBirthdayMode) {
+            return;
+        }
+        isBirthdayMode = true;
+
+        if (ageForm) {
+            ageForm.setAttribute('data-mode', 'birthday');
+        }
+
+        if (ageLabel && ageForm) {
+            ageLabel.textContent = ageForm.getAttribute('data-age-label-birthday') || ageLabel.textContent;
+        }
+
+        if (submitButton && ageForm) {
+            submitButton.textContent = ageForm.getAttribute('data-submit-label-birthday') || submitButton.textContent;
+        }
+
+        if (birthdayOutput) {
+            birthdayOutput.hidden = true;
+        }
+        setBirthdayToggleText();
+    }
+
+    function disableBirthdayMode() {
+        if (!isBirthdayMode) {
+            return;
+        }
+        isBirthdayMode = false;
+
+        if (ageForm) {
+            ageForm.setAttribute('data-mode', 'normal');
+        }
+
+        if (ageLabel && ageForm) {
+            ageLabel.textContent = ageForm.getAttribute('data-age-label-default') || ageLabel.textContent;
+        }
+
+        if (submitButton && ageForm) {
+            submitButton.textContent = ageForm.getAttribute('data-submit-label-default') || submitButton.textContent;
+        }
+
+        if (birthdayOutput) {
+            birthdayOutput.hidden = true;
+        }
+        if (birthdayLink) {
+            birthdayLink.href = '#';
+            birthdayLink.textContent = '';
+        }
+        if (birthdayCopy) {
+            birthdayCopy.disabled = false;
+            setCopyButtonText(getCopyDefaultLabel());
+        }
+        if (copyResetTimer) {
+            window.clearTimeout(copyResetTimer);
+            copyResetTimer = 0;
+        }
+        setBirthdayToggleText();
+    }
+
+    function copyTextToClipboard(value) {
+        if (navigator.clipboard && typeof navigator.clipboard.writeText === 'function') {
+            return navigator.clipboard.writeText(value);
+        }
+
+        return new Promise(function (resolve, reject) {
+            var textarea = document.createElement('textarea');
+            textarea.value = value;
+            textarea.setAttribute('readonly', 'readonly');
+            textarea.style.position = 'absolute';
+            textarea.style.left = '-9999px';
+            document.body.appendChild(textarea);
+            textarea.select();
+            try {
+                var successful = document.execCommand('copy');
+                document.body.removeChild(textarea);
+                if (successful) {
+                    resolve();
+                } else {
+                    reject(new Error('copy_failed'));
+                }
+            } catch (error) {
+                document.body.removeChild(textarea);
+                reject(error);
+            }
+            });
+    }
+
+    function clampHorizontalViewport() {
+        if (!document.documentElement || !document.body) {
+            return;
+        }
+        var maxX = Math.max(0, document.documentElement.scrollWidth - document.documentElement.clientWidth);
+        if (window.scrollX > maxX) {
+            window.scrollTo({ left: maxX, top: window.scrollY, behavior: 'auto' });
+            return;
+        }
+        if (window.scrollX !== 0) {
+            window.scrollTo({ left: 0, top: window.scrollY, behavior: 'auto' });
+        }
+    }
+
+    var isLikelyMobile = window.matchMedia('(max-width: 860px)').matches || (navigator.maxTouchPoints || 0) > 0;
+    if (ageInput && !isLikelyMobile) {
+        ageInput.focus({ preventScroll: true });
+    }
+
+    clampHorizontalViewport();
+    window.addEventListener('load', clampHorizontalViewport);
+    window.addEventListener('resize', clampHorizontalViewport);
+    window.addEventListener('orientationchange', clampHorizontalViewport);
+
+    if (langSelect) {
+        langSelect.addEventListener('change', function () {
+            if (langSelect.value) {
+                window.location.href = langSelect.value;
+            }
+        });
+    }
+
+    if (ageForm && ageInput) {
+        ageInput.addEventListener('keydown', function (event) {
+            if (event.key !== 'Enter') {
+                return;
+            }
+            event.preventDefault();
+            if (typeof ageForm.requestSubmit === 'function') {
+                ageForm.requestSubmit();
+                return;
+            }
+            ageForm.submit();
+        });
+
+        ageForm.addEventListener('submit', function (event) {
+            var rawValue = (ageInput.value || '').trim();
+            var ageNumber = parseInt(rawValue, 10);
+            if (!rawValue || Number.isNaN(ageNumber)) {
+                return;
+            }
+
+            var minAge = parseInt(ageInput.min || '0', 10);
+            var maxAge = parseInt(ageInput.max || '999', 10);
+            if (ageNumber < minAge || ageNumber > maxAge) {
+                return;
+            }
+
+            event.preventDefault();
+            if (isBirthdayMode) {
+                var birthdayBase = ageForm.getAttribute('data-birthday-link-base') || '/result/';
+                var sharePath = birthdayBase + encodeURIComponent(String(ageNumber)) + '.html';
+                var shareUrl = window.location.origin + sharePath;
+
+                if (birthdayLink) {
+                    birthdayLink.href = sharePath;
+                    birthdayLink.textContent = shareUrl;
+                }
+
+                if (birthdayOutput) {
+                    birthdayOutput.hidden = false;
+                }
+
+                if (birthdayCopy) {
+                    birthdayCopy.disabled = false;
+                    setCopyButtonText(getCopyDefaultLabel());
+                }
+
+                return;
+            }
+
+            var resultBase = ageForm.getAttribute('data-result-base') || '/en/result/';
+            window.location.href = resultBase + ageNumber + '.html';
+        });
+    }
+
+    if (birthdayToggle) {
+        birthdayToggle.addEventListener('click', function (event) {
+            event.preventDefault();
+            if (isBirthdayMode) {
+                disableBirthdayMode();
+            } else {
+                enableBirthdayMode();
+            }
+            if (ageInput) {
+                ageInput.focus({ preventScroll: true });
+            }
+        });
+    }
+
+    if (birthdayCopy) {
+        birthdayCopy.addEventListener('click', function () {
+            if (!birthdayLink) {
+                return;
+            }
+            var valueToCopy = (birthdayLink.textContent || '').trim();
+            if (valueToCopy === '') {
+                return;
+            }
+
+            birthdayCopy.disabled = true;
+            copyTextToClipboard(valueToCopy).then(function () {
+                setCopyButtonText(getCopySuccessLabel());
+            }).catch(function () {
+                setCopyButtonText(getCopyDefaultLabel());
+            }).finally(function () {
+                if (copyResetTimer) {
+                    window.clearTimeout(copyResetTimer);
+                }
+                copyResetTimer = window.setTimeout(function () {
+                    setCopyButtonText(getCopyDefaultLabel());
+                    birthdayCopy.disabled = false;
+                }, 1500);
+            });
+        });
+    }
+
+    if (disclaimer && disclaimerAck) {
+        disclaimerAck.addEventListener('click', function () {
+            disclaimer.style.display = 'none';
+            if (ageInput) {
+                ageInput.focus({ preventScroll: true });
+            }
+        });
+    }
+
+    setBirthdayToggleText();
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Privacy - TheLuckyBastard.Me</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="/assets/favicon-256.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="stylesheet" href="/assets/style.css?v=1779235544">
+</head>
+<body>
+<div class="page">
+    <header class="topbar">
+        <a class="brand-lockup brand-home-link" href="/en.html">
+            <img class="brand-icon" src="/site_logo.png" alt="TheLuckyBastard.Me">
+            <h1 class="brand" aria-label="TheLuckyBastard.Me">
+                <span class="brand-word-dark">The</span><span class="brand-word-main">Lucky</span><span class="brand-word-dark">Bastard.</span><span class="brand-word-me">Me</span>
+            </h1>
+        </a>
+        <form method="get" action="/privacy.php" class="lang-switch" data-lang-switch-form>
+            <label for="lang">Language</label>
+            <select id="lang" name="lang" data-lang-select>
+                                    <option value="/en/privacy.html" selected>EN</option>
+                                    <option value="/fr/privacy.html">FR</option>
+                                    <option value="/de/privacy.html">DE</option>
+                                    <option value="/es/privacy.html">ES</option>
+                                    <option value="/ru/privacy.html">RU</option>
+                            </select>
+        </form>
+    </header>
+
+    <main class="legal-main">
+        <article class="legal-card">
+            <h2>Privacy</h2>
+            <p>This website is designed to be simple and respectful. It does not require registration, and it does not ask for personal profile data.</p>
+
+            <h3>No Personal Data Collection</h3>
+            <p>We do not collect names, emails, phone numbers, birth dates, or account details. The age you enter is used only to generate the requested page and is not stored as a user profile.</p>
+
+            <h3>No Cookies or Tracking</h3>
+            <p>We do not use analytics cookies, advertising cookies, tracking pixels, or cross-site profiling tools. The site is designed to work without behavioral tracking.</p>
+
+            <h3>Sensitive Content Notice</h3>
+            <p>This project discusses mortality and may reference illness, accidents, violence, suicide, grief, and other distressing topics. It is intended for older teens and adults. If these topics are difficult for you, please use discretion.</p>
+
+            <h3>External Links</h3>
+            <p>Some pages include links to third-party sources. When you open those links, the external website may apply its own privacy policy, cookies, and data collection rules.</p>
+
+            <h3>Policy Updates</h3>
+            <p>We may update this page if the product changes. Material privacy changes will be reflected here.</p>
+        </article>
+    </main>
+
+    <footer class="site-footer">
+        <a href="/en/privacy.html">Privacy</a>
+        <span class="site-footer-divider">|</span>
+        <a href="/en/terms.html">Terms of use</a>
+    </footer>
+</div>
+<script>
+window.addEventListener('DOMContentLoaded', function () {
+    var langSelect = document.querySelector('[data-lang-select]');
+    if (!langSelect) {
+        return;
+    }
+    langSelect.addEventListener('change', function () {
+        if (langSelect.value) {
+            window.location.href = langSelect.value;
+        }
+    });
+});
+</script>
+</body>
+</html>

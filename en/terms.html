@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Terms of Use - TheLuckyBastard.Me</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="/assets/favicon-256.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="stylesheet" href="/assets/style.css?v=1779235544">
+</head>
+<body>
+<div class="page">
+    <header class="topbar">
+        <a class="brand-lockup brand-home-link" href="/en.html">
+            <img class="brand-icon" src="/site_logo.png" alt="TheLuckyBastard.Me">
+            <h1 class="brand" aria-label="TheLuckyBastard.Me">
+                <span class="brand-word-dark">The</span><span class="brand-word-main">Lucky</span><span class="brand-word-dark">Bastard.</span><span class="brand-word-me">Me</span>
+            </h1>
+        </a>
+        <form method="get" action="/terms.php" class="lang-switch" data-lang-switch-form>
+            <label for="lang">Language</label>
+            <select id="lang" name="lang" data-lang-select>
+                                    <option value="/en/terms.html" selected>EN</option>
+                                    <option value="/fr/terms.html">FR</option>
+                                    <option value="/de/terms.html">DE</option>
+                                    <option value="/es/terms.html">ES</option>
+                                    <option value="/ru/terms.html">RU</option>
+                            </select>
+        </form>
+    </header>
+
+    <main class="legal-main">
+        <article class="legal-card">
+            <h2>Terms of Use</h2>
+            <p>By using this website, you agree to use it responsibly and with awareness that the subject matter can be emotionally sensitive.</p>
+
+            <h3>Purpose and Scope</h3>
+            <p>This website is an informational and reflective project. It is not medical, legal, psychological, or crisis-support advice.</p>
+
+            <h3>Audience</h3>
+            <p>The site is intended for older teens and adults. Parents, guardians, and educators should use discretion for younger audiences.</p>
+
+            <h3>Sensitive Topics</h3>
+            <p>Content may include references to death, illness, accidents, violence, suicide, grief, and controversial public figures. Reader discretion is advised.</p>
+
+            <h3>External Sources</h3>
+            <p>We link to third-party references for historical context. We are not responsible for third-party content, accuracy changes, availability, or policies.</p>
+
+            <h3>No Warranty</h3>
+            <p>The website is provided on an &quot;as is&quot; and &quot;as available&quot; basis without warranties of completeness, fitness, or uninterrupted operation.</p>
+
+            <h3>Limitation of Liability</h3>
+            <p>To the fullest extent permitted by law, the site operators are not liable for direct or indirect damages resulting from use of this website or linked resources.</p>
+
+            <h3>Changes to These Terms</h3>
+            <p>We may update these terms as the project evolves. Continued use of the website after changes means you accept the updated terms.</p>
+        </article>
+    </main>
+
+    <footer class="site-footer">
+        <a href="/en/privacy.html">Privacy</a>
+        <span class="site-footer-divider">|</span>
+        <a href="/en/terms.html">Terms of use</a>
+    </footer>
+</div>
+<script>
+window.addEventListener('DOMContentLoaded', function () {
+    var langSelect = document.querySelector('[data-lang-select]');
+    if (!langSelect) {
+        return;
+    }
+    langSelect.addEventListener('change', function () {
+        if (langSelect.value) {
+            window.location.href = langSelect.value;
+        }
+    });
+});
+</script>
+</body>
+</html>

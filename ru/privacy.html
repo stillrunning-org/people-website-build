@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Конфиденциальность - TheLuckyBastard.Me</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="/assets/favicon-256.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="stylesheet" href="/assets/style.css?v=1779235544">
+</head>
+<body>
+<div class="page">
+    <header class="topbar">
+        <a class="brand-lockup brand-home-link" href="/ru.html">
+            <img class="brand-icon" src="/site_logo.png" alt="TheLuckyBastard.Me">
+            <h1 class="brand" aria-label="TheLuckyBastard.Me">
+                <span class="brand-word-dark">The</span><span class="brand-word-main">Lucky</span><span class="brand-word-dark">Bastard.</span><span class="brand-word-me">Me</span>
+            </h1>
+        </a>
+        <form method="get" action="/privacy.php" class="lang-switch" data-lang-switch-form>
+            <label for="lang">Язык</label>
+            <select id="lang" name="lang" data-lang-select>
+                                    <option value="/en/privacy.html">EN</option>
+                                    <option value="/fr/privacy.html">FR</option>
+                                    <option value="/de/privacy.html">DE</option>
+                                    <option value="/es/privacy.html">ES</option>
+                                    <option value="/ru/privacy.html" selected>RU</option>
+                            </select>
+        </form>
+    </header>
+
+    <main class="legal-main">
+        <article class="legal-card">
+            <h2>Конфиденциальность</h2>
+            <p>Этот сайт сделан максимально простым и уважительным. Регистрация не требуется, личные профили не собираются.</p>
+
+            <h3>Мы не собираем персональные данные</h3>
+            <p>Мы не собираем имена, email, телефоны, даты рождения или данные аккаунтов. Введенный возраст используется только для генерации запрошенной страницы и не хранится как профиль пользователя.</p>
+
+            <h3>Без cookies и трекинга</h3>
+            <p>Мы не используем аналитические cookies, рекламные cookies, пиксели отслеживания и кросс-сайтовый профайлинг. Сайт рассчитан на работу без поведенческого трекинга.</p>
+
+            <h3>Предупреждение о чувствительном контенте</h3>
+            <p>Проект затрагивает темы смертности и может включать упоминания болезней, несчастных случаев, насилия, самоубийства, горя и других тяжелых тем. Сайт предназначен для старших подростков и взрослых. Если эти темы для вас тяжелы, пожалуйста, соблюдайте осторожность.</p>
+
+            <h3>Внешние ссылки</h3>
+            <p>На некоторых страницах есть ссылки на сторонние источники. При переходе на такие сайты применяются их собственные правила конфиденциальности, cookies и политики обработки данных.</p>
+
+            <h3>Обновления политики</h3>
+            <p>Мы можем обновлять эту страницу по мере развития проекта. Существенные изменения политики конфиденциальности будут отражены здесь.</p>
+        </article>
+    </main>
+
+    <footer class="site-footer">
+        <a href="/ru/privacy.html">Конфиденциальность</a>
+        <span class="site-footer-divider">|</span>
+        <a href="/ru/terms.html">Условия использования</a>
+    </footer>
+</div>
+<script>
+window.addEventListener('DOMContentLoaded', function () {
+    var langSelect = document.querySelector('[data-lang-select]');
+    if (!langSelect) {
+        return;
+    }
+    langSelect.addEventListener('change', function () {
+        if (langSelect.value) {
+            window.location.href = langSelect.value;
+        }
+    });
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Условия использования - TheLuckyBastard.Me</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="/assets/favicon-256.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="stylesheet" href="/assets/style.css?v=1779235544">
+</head>
+<body>
+<div class="page">
+    <header class="topbar">
+        <a class="brand-lockup brand-home-link" href="/ru.html">
+            <img class="brand-icon" src="/site_logo.png" alt="TheLuckyBastard.Me">
+            <h1 class="brand" aria-label="TheLuckyBastard.Me">
+                <span class="brand-word-dark">The</span><span class="brand-word-main">Lucky</span><span class="brand-word-dark">Bastard.</span><span class="brand-word-me">Me</span>
+            </h1>
+        </a>
+        <form method="get" action="/terms.php" class="lang-switch" data-lang-switch-form>
+            <label for="lang">Язык</label>
+            <select id="lang" name="lang" data-lang-select>
+                                    <option value="/en/terms.html">EN</option>
+                                    <option value="/fr/terms.html">FR</option>
+                                    <option value="/de/terms.html">DE</option>
+                                    <option value="/es/terms.html">ES</option>
+                                    <option value="/ru/terms.html" selected>RU</option>
+                            </select>
+        </form>
+    </header>
+
+    <main class="legal-main">
+        <article class="legal-card">
+            <h2>Условия использования</h2>
+            <p>Используя сайт, вы соглашаетесь пользоваться им ответственно и учитывать, что тематика может быть эмоционально чувствительной.</p>
+
+            <h3>Назначение и область применения</h3>
+            <p>Этот сайт является информационно-рефлексивным проектом. Он не является медицинской, юридической, психологической консультацией или кризисной поддержкой.</p>
+
+            <h3>Аудитория</h3>
+            <p>Сайт предназначен для старших подростков и взрослых. Родителям, опекунам и педагогам следует использовать усмотрение для более молодой аудитории.</p>
+
+            <h3>Чувствительные темы</h3>
+            <p>Контент может включать упоминания смерти, болезней, несчастных случаев, насилия, самоубийства, горя и спорных исторических или публичных фигур. Рекомендуется осторожность при чтении.</p>
+
+            <h3>Сторонние источники</h3>
+            <p>Мы даем ссылки на сторонние источники для исторического контекста. Мы не несем ответственности за сторонний контент, изменения точности, доступность или их политики.</p>
+
+            <h3>Без гарантий</h3>
+            <p>Сайт предоставляется &quot;как есть&quot; и &quot;по доступности&quot; без гарантий полноты, пригодности для конкретной цели и бесперебойной работы.</p>
+
+            <h3>Ограничение ответственности</h3>
+            <p>В пределах, разрешенных законом, операторы сайта не несут ответственности за прямые или косвенные убытки, возникшие из-за использования сайта или связанных ресурсов.</p>
+
+            <h3>Изменения условий</h3>
+            <p>Мы можем обновлять эти условия по мере развития проекта. Продолжение использования сайта после изменений означает принятие обновленных условий.</p>
+        </article>
+    </main>
+
+    <footer class="site-footer">
+        <a href="/ru/privacy.html">Конфиденциальность</a>
+        <span class="site-footer-divider">|</span>
+        <a href="/ru/terms.html">Условия использования</a>
+    </footer>
+</div>
+<script>
+window.addEventListener('DOMContentLoaded', function () {
+    var langSelect = document.querySelector('[data-lang-select]');
+    if (!langSelect) {
+        return;
+    }
+    langSelect.addEventListener('change', function () {
+        if (langSelect.value) {
+            window.location.href = langSelect.value;
+        }
+    });
+});
+</script>
+</body>
+</html>

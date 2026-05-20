@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Conditions d utilisation - TheLuckyBastard.Me</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="256x256" href="/assets/favicon-256.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="stylesheet" href="/assets/style.css?v=1779235544">
+</head>
+<body>
+<div class="page">
+    <header class="topbar">
+        <a class="brand-lockup brand-home-link" href="/fr.html">
+            <img class="brand-icon" src="/site_logo.png" alt="TheLuckyBastard.Me">
+            <h1 class="brand" aria-label="TheLuckyBastard.Me">
+                <span class="brand-word-dark">The</span><span class="brand-word-main">Lucky</span><span class="brand-word-dark">Bastard.</span><span class="brand-word-me">Me</span>
+            </h1>
+        </a>
+        <form method="get" action="/terms.php" class="lang-switch" data-lang-switch-form>
+            <label for="lang">Langue</label>
+            <select id="lang" name="lang" data-lang-select>
+                                    <option value="/en/terms.html">EN</option>
+                                    <option value="/fr/terms.html" selected>FR</option>
+                                    <option value="/de/terms.html">DE</option>
+                                    <option value="/es/terms.html">ES</option>
+                                    <option value="/ru/terms.html">RU</option>
+                            </select>
+        </form>
+    </header>
+
+    <main class="legal-main">
+        <article class="legal-card">
+            <h2>Conditions d utilisation</h2>
+            <p>En utilisant ce site, vous acceptez de l utiliser de maniere responsable en sachant que le sujet peut etre sensible sur le plan emotionnel.</p>
+
+            <h3>Objet et portee</h3>
+            <p>Ce site est un projet informatif et de reflexion. Il ne constitue pas un avis medical, juridique, psychologique ou de soutien en situation de crise.</p>
+
+            <h3>Public vise</h3>
+            <p>Le site est destine aux adolescents plus ages et aux adultes. Les parents, tuteurs et enseignants doivent faire preuve de discretion pour les plus jeunes.</p>
+
+            <h3>Sujets sensibles</h3>
+            <p>Le contenu peut inclure des references a la mort, a la maladie, aux accidents, a la violence, au suicide, au deuil et a des figures publiques controversees. La discretion du lecteur est recommandee.</p>
+
+            <h3>Sources externes</h3>
+            <p>Nous proposons des liens vers des references tierces pour le contexte historique. Nous ne sommes pas responsables du contenu tiers, des changements d exactitude, de disponibilite ou de politiques.</p>
+
+            <h3>Absence de garantie</h3>
+            <p>Le site est fourni &quot;tel quel&quot; et &quot;selon disponibilite&quot;, sans garantie d exhaustivite, d adequation ou de fonctionnement ininterrompu.</p>
+
+            <h3>Limitation de responsabilite</h3>
+            <p>Dans toute la mesure permise par la loi, les exploitants du site ne sont pas responsables des dommages directs ou indirects lies a l utilisation du site ou des ressources liees.</p>
+
+            <h3>Modifications des conditions</h3>
+            <p>Nous pouvons mettre a jour ces conditions a mesure que le projet evolue. La poursuite de l utilisation du site apres modification signifie que vous acceptez les conditions mises a jour.</p>
+        </article>
+    </main>
+
+    <footer class="site-footer">
+        <a href="/fr/privacy.html">Confidentialite</a>
+        <span class="site-footer-divider">|</span>
+        <a href="/fr/terms.html">Conditions d utilisation</a>
+    </footer>
+</div>
+<script>
+window.addEventListener('DOMContentLoaded', function () {
+    var langSelect = document.querySelector('[data-lang-select]');
+    if (!langSelect) {
+        return;
+    }
+    langSelect.addEventListener('change', function () {
+        if (langSelect.value) {
+            window.location.href = langSelect.value;
+        }
+    });
+});
+</script>
+</body>
+</html>
