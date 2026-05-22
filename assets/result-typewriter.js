@@ -432,7 +432,6 @@
             if (result < 0) {
                 return 0.01;
             }
-            console.log(result);
             return Math.pow(result, 3);
         }
 
@@ -443,7 +442,6 @@
             if (result < 0) {
                 return 0.01;
             }
-            console.log(result);
             return result;
         }
         return 1;

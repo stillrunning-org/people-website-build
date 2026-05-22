@@ -2,2154 +2,2154 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://theluckybastard.me/index.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/privacy.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/terms.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/privacy.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/terms.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/privacy.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/terms.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/privacy.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/terms.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/privacy.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/terms.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/13.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/13.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/13.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/13.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/13.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/13.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/14.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/14.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/14.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/14.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/14.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/14.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/15.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/15.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/15.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/15.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/15.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/15.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/16.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/16.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/16.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/16.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/16.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/16.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/17.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/17.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/17.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/17.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/17.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/17.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/18.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/18.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/18.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/18.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/18.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/18.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/19.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/19.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/19.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/19.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/19.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/19.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/20.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/20.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/20.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/20.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/20.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/20.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/21.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/21.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/21.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/21.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/21.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/21.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/22.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/22.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/22.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/22.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/22.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/22.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/23.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/23.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/23.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/23.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/23.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/23.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/24.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/24.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/24.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/24.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/24.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/24.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/25.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/25.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/25.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/25.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/25.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/25.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/26.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/26.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/26.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/26.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/26.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/26.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/27.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/27.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/27.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/27.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/27.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/27.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/28.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/28.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/28.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/28.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/28.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/28.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/29.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/29.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/29.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/29.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/29.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/29.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/30.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/30.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/30.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/30.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/30.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/30.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/31.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/31.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/31.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/31.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/31.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/31.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/32.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/32.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/32.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/32.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/32.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/32.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/33.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/33.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/33.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/33.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/33.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/33.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/34.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/34.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/34.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/34.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/34.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/34.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/35.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/35.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/35.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/35.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/35.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/35.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/36.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/36.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/36.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/36.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/36.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/36.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/37.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/37.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/37.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/37.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/37.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/37.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/38.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/38.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/38.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/38.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/38.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/38.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/39.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/39.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/39.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/39.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/39.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/39.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/40.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/40.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/40.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/40.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/40.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/40.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/41.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/41.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/41.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/41.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/41.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/41.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/42.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/42.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/42.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/42.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/42.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/42.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/43.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/43.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/43.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/43.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/43.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/43.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/44.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/44.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/44.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/44.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/44.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/44.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/45.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/45.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/45.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/45.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/45.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/45.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/46.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/46.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/46.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/46.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/46.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/46.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/47.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/47.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/47.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/47.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/47.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/47.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/48.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/48.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/48.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/48.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/48.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/48.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/49.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/49.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/49.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/49.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/49.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/49.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/50.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/50.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/50.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/50.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/50.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/50.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/51.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/51.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/51.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/51.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/51.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/51.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/52.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/52.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/52.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/52.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/52.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/52.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/53.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/53.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/53.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/53.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/53.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/53.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/54.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/54.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/54.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/54.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/54.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/54.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/55.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/55.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/55.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/55.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/55.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/55.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/56.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/56.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/56.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/56.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/56.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/56.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/57.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/57.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/57.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/57.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/57.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/57.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/58.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/58.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/58.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/58.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/58.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/58.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/59.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/59.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/59.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/59.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/59.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/59.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/60.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/60.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/60.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/60.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/60.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/60.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/61.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/61.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/61.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/61.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/61.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/61.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/62.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/62.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/62.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/62.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/62.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/62.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/63.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/63.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/63.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/63.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/63.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/63.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/64.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/64.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/64.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/64.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/64.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/64.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/65.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/65.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/65.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/65.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/65.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/65.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/66.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/66.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/66.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/66.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/66.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/66.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/67.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/67.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/67.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/67.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/67.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/67.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/68.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/68.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/68.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/68.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/68.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/68.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/69.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/69.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/69.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/69.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/69.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/69.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/70.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/70.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/70.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/70.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/70.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/70.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/71.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/71.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/71.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/71.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/71.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/71.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/72.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/72.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/72.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/72.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/72.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/72.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/73.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/73.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/73.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/73.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/73.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/73.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/74.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/74.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/74.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/74.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/74.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/74.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/75.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/75.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/75.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/75.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/75.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/75.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/76.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/76.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/76.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/76.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/76.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/76.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/77.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/77.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/77.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/77.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/77.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/77.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/78.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/78.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/78.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/78.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/78.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/78.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/79.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/79.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/79.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/79.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/79.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/79.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/80.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/80.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/80.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/80.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/80.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/80.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/81.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/81.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/81.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/81.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/81.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/81.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/82.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/82.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/82.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/82.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/82.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/82.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/83.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/83.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/83.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/83.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/83.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/83.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/84.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/84.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/84.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/84.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/84.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/84.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/85.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/85.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/85.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/85.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/85.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/85.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/86.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/86.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/86.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/86.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/86.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/86.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/87.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/87.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/87.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/87.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/87.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/87.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/88.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/88.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/88.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/88.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/88.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/88.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/89.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/89.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/89.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/89.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/89.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/89.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/90.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/90.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/90.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/90.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/90.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/90.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/91.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/91.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/91.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/91.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/91.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/91.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/92.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/92.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/92.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/92.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/92.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/92.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/93.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/93.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/93.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/93.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/93.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/93.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/94.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/94.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/94.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/94.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/94.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/94.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/95.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/95.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/95.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/95.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/95.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/95.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/96.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/96.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/96.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/96.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/96.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/96.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/97.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/97.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/97.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/97.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/97.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/97.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/98.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/98.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/98.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/98.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/98.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/98.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/result/99.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/en/result/99.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/fr/result/99.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/de/result/99.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/es/result/99.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
   <url>
     <loc>https://theluckybastard.me/ru/result/99.html</loc>
-    <lastmod>2026-05-21T07:44:48+00:00</lastmod>
+    <lastmod>2026-05-22T08:44:45+00:00</lastmod>
   </url>
 </urlset>
