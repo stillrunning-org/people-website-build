@@ -444,7 +444,7 @@
                 return 0.01;
             }
             console.log(result);
-            return Math.sqrt(result);
+            return result;
         }
         return 1;
     }
